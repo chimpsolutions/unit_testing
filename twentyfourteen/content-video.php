@@ -1,6 +1,7 @@
 <?php
 /**
  * The template for displaying posts in the Video post format
+ * new line added
  *
  * @package WordPress
  * @subpackage Twenty_Fourteen
