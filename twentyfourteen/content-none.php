@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying a "No posts found" message
+ * The template for displaying a "No posts found" message v1.3
  *
  * @package WordPress
  * @subpackage Twenty_Fourteen
